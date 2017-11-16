@@ -1,0 +1,32 @@
+Setup
+
+Tutorial made for Python 3.
+
+Run the following commands in the terminal to install the packages
+
+*** Mac ***
+
+If you get permission errors when running any of the following commands, try typing sudo before the command and putting in your computer password when it prompts you
+
+# Get Brew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# Get Python 3 and pip3
+brew install python3
+brew postinstall python3
+
+# Get Jupyter
+pip3 install jupyter
+
+# Install required python3 packages
+pip3 install pandas
+pip3 install numpy
+pip3 install keras
+pip3 install pandas
+pip3 install matplotlib
+
+# You should be ready.. In the current folder run
+juptyer notebook
+
+
+*** Windows (Coming) ***
