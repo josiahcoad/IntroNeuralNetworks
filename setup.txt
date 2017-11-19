@@ -2,14 +2,22 @@ Setup
 
 Tutorial made for Python 3.
 
-Run the following commands in the terminal to install the packages
+Run the following commands in the terminal to set up
 
-*** Mac ***
+First: open a terminal/command prompt, cd into the folder of your choice and "git clone" this repository
+If you don't have git: follow this link: https://www.atlassian.com/git/tutorials/install-git#windows
+Then: Follow the instructions for your respective OS system
+
+*** Mac / Unix ***
 
 If you get permission errors when running any of the following commands, try typing sudo before the command and putting in your computer password when it prompts you
 
 # Get Brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+... alternatively, skip getting brew and download directly from the python website
+https://www.python.org/downloads/
+
 
 # Get Python 3 and pip3
 brew install python3
@@ -29,4 +37,30 @@ pip3 install matplotlib
 juptyer notebook
 
 
-*** Windows (Coming) ***
+*** Windows ***
+
+# Get Python 3 and pip3
+go to https://www.python.org/downloads/windows/
+Click on "Windows x86-64 executable installer" (bottom of page)
+Within the installer, make sure to keep install path to the default location C:\Python32\
+... (if you want more detailed instructions on Python install, go to http://www.openbookproject.net/courses/webappdev/units/softwaredesign/resources/install_python_win7.html)
+
+# Install required python3 packages
+cd C:\Python32\Scripts\
+pip3.exe install <package-name>
+python3 -m pip install <module_name>
+
+# Get Jupyter
+pip3.exe install jupyter
+
+# Install required python3 packages
+pip3.exe install pandas
+pip3.exe install numpy
+pip3.exe install keras
+pip3.exe install pandas
+pip3.exe install matplotlib
+
+# You should be ready.. 
+cd back into the folder where you cloned the git repository
+# type
+juptyer notebook

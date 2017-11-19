@@ -4,7 +4,7 @@
 ### Course Objectives
 - Learn what deep learning is and how it is being used to solve real life problems
 - Learn about the most prevalent ML models being used today (CNN, RNN, GAN, etc.)
-- Become comfortable with many of the buzzwords of machine learning (activation functions, backwards propagation and gradient decent, epochs, etc..)$
+- Become comfortable with many of the buzzwords of machine learning (activation functions, backwards propagation and gradient decent, epochs, etc..)
 - Start using some of the tools for ML programming (numpy, pandas, keras)
 - Build a predictive (regression and classification) ML model using keras and interpret the output
 - **Final: Classify digits with the MNIST data set**
