@@ -5,8 +5,10 @@ Download this git repository folder.
   - click "Download Zip"
   - unzip folder
 
-Download Anaconda here: https://www.anaconda.com/download/
-Open anaconda and click Jupyter Notebook
+Download Anaconda here: https://www.anaconda.com/download/ (Python 3.* version)
+Open anaconda and click Jupyter Notebook (should be on homescreen of GUI)
 In Jupyter Notebook file manager system, navigate to the folder you just downloaded
 
 (Note: Add how to get packages like Keras (not included in Anaconda))
+(from the Anaconda command line) conda install -c conda-forge keras 
+
