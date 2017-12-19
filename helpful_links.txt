@@ -1,0 +1,8 @@
+Course Review:
+https://docs.google.com/forms/d/1Tf7LG0X0WDrKdBLW7wjw5izh3PY1dho713Gq6Z3eeMM/edit
+
+A helpful visualization of a two layer dense sequential network on the mnist data set (like we programmed in chapter 4):
+http://scs.ryerson.ca/~aharley/vis/fc/
+
+Here is the viz of a convolusional networks applied to the mnist data set (past the scope of this class):
+http://scs.ryerson.ca/~aharley/vis/conv/

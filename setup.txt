@@ -1,23 +1,9 @@
-Getting Started
+Start Here!
 
-Download this git repository folder.
+Download this git repository.
   - click the green button "Clone or Download"
   - click "Download Zip"
   - unzip folder
 
-Download Anaconda here: https://www.anaconda.com/download/ (Python 3.* version)
-Open anaconda and click Jupyter Notebook (should be on homescreen of GUI)
-In Jupyter Notebook file manager system, navigate to the folder you just downloaded
-
-(Note: Add how to get packages like Keras (not included in Anaconda))
-(from the Anaconda command line) conda install -c conda-forge keras 
-
-After going through session 1: Could you please be amazing and fill this out? 
-https://docs.google.com/forms/d/1Tf7LG0X0WDrKdBLW7wjw5izh3PY1dho713Gq6Z3eeMM/edit
-
-Here is a link to a helpful visualization of a two layer dense sequential network on the mnist data set (like we programmed in one of the solutions)
-http://scs.ryerson.ca/~aharley/vis/fc/
-
-
-Here is the viz of a convolusional networks applied to the mnist data set
-http://scs.ryerson.ca/~aharley/vis/conv/
+Follow the instructions here to install all neccessary packages:
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
