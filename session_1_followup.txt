@@ -1,0 +1,10 @@
+** Session 1 Follow-up **
+
+- If you're stuck on any of the setup, please carefully follow the SETUP instructions in the readme.md
+shown on the homepage of the github repository page: https://github.com/josiahcoad/Intro-Neural-Networks/
+
+- review the chapter 1-2 slides at your own pace
+
+- play with google tensorflow playground (playground.tensorflow.org)
+
+- try running the coding practicals with jupyter notebook (look at the coding solutions if you get stuck)

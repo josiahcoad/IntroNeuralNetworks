@@ -46,6 +46,13 @@ Please also note that the course structure has been gleaned from other superb on
 * Now navigate to where you put the Intro-Neural-Networks-master folder, the unziped version of the file you downloaded at the beginning
 ![Neural Networks folder img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.40.01%20PM.png?raw=true)
 
+##### Using Jupyter Notebook
+* Open any file from the Solution folder by clicking on it (suggest starting in chapter1_solution.ipynb)
+* Place your curser in the **the first** cell in the jupyter notebook
+* Press shift+enter to run the cell
+* If successful, the curser should move to the next cell.
+* Continue in this fashion through all cells, reading each cell and trying to understand it before moving onto the next.
+
 ### Setup for Chapter 3-4
 
 ##### Install packages needed for building a neural network
