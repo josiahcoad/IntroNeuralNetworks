@@ -1,9 +1,0 @@
-Start Here!
-
-Download this git repository.
-  - click the green button "Clone or Download"
-  - click "Download Zip"
-  - unzip folder
-
-Follow the instructions here to install all neccessary packages:
-https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
