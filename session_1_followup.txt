@@ -1,6 +1,6 @@
 ** Session 1 Follow-up **
 
-- If you're stuck on any of the setup, please carefully follow the SETUP instructions in the readme.md
+- If you're stuck on any of the setup, please carefully follow the SETUP instructions at the bottom of the readme.md
 shown on the homepage of the github repository page: https://github.com/josiahcoad/Intro-Neural-Networks/
 
 - review the chapter 1-2 slides at your own pace
