@@ -17,7 +17,7 @@
 Please note the programming instructions and slides for each lesson are explained in person and thus not fully documented online.  
 
 Please also note that the course structure has been gleaned from other superb online courses (ie *Deep Learning in Python* from datacamp.com) and thus may look familiar if you've taken other online classes.  
-#### Repository Structure
+### Repository Structure
 * ./Practicals
   * fill-in-the-blanks in the code to deepen your understanding of the code behind the concepts.
 * ./Solutions
@@ -25,7 +25,7 @@ Please also note that the course structure has been gleaned from other superb on
 * ./Quizes
   * Test your knowledge with these interactive questionairs. See immediately how you compare to others who have answered the questions.  
 
-#### Setup
+### Setup
 Start here to setup for Chapter 1-2!  
 
 * Download this git repository.   
@@ -46,4 +46,4 @@ Start here to setup for Chapter 1-2!
 * It will open a file navigator in your browser ![file navigator img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.39.21%20PM.png?raw=true)
 * Navigate to where you put the Neural Networks folder ![Neural Networks folder img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.40.01%20PM.png?raw=true)
 
-#### Setup for Chapter 3-4
+### Setup for Chapter 3-4
