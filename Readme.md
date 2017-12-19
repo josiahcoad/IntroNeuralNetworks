@@ -40,6 +40,7 @@ Please also note that the course structure has been gleaned from other superb on
 * Then open the Anaconda Navigation program ![Anaconda GUI img](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/Anaconda-Navigator-GUI-1024x635.png)
 
 ##### Setting up Jupyter Notebook
+* Jupyter Notebook is an open-source web application that allows you to create and share documents that contain code, visualizations and explainatory text. It allows you to run code sequentially in small sections called cells so you can see what the code is doing.
 * Once in Anaconda, click the "Launch" button under Jupyter Notebook
 * It will open a file navigator in your browser ![file navigator img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.39.21%20PM.png?raw=true)
 
