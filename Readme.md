@@ -59,7 +59,7 @@ Please also note that the course structure has been gleaned from other superb on
 
 ##### Install packages needed for building a neural network
 * Open the Anaconda Prompt by Typing "Anaconda Prompt" into your operating system search bar
-* Type each of the following lines one-by-one into the Anaconda Prompt, pressing enter after each line.
+* Type each of the following lines one-by-one into the Anaconda Prompt, pressing enter after each line. (If prompted with "Continue ([y]/n)" type y and press enter.)
   * conda install theano
   * conda install keras
   * conda install tensorflow
