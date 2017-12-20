@@ -17,7 +17,8 @@
 Please note the programming instructions and slides for each lesson are explained in person and thus not fully documented online.  
 
 Please also note that the course structure has been gleaned from other superb online courses (ie *Deep Learning in Python* from datacamp.com) and thus may look familiar if you've taken other online classes.  
-### Repository Structure
+
+### Directory Structure
 * ./Practicals
   * fill-in-the-blanks in the code to deepen your understanding of the code behind the concepts.
 * ./Solutions
@@ -59,10 +60,13 @@ Please also note that the course structure has been gleaned from other superb on
 ##### Install packages needed for building a neural network
 * Open the Anaconda Prompt by Typing "Anaconda Prompt" into your operating system search bar
 * Type each of the following lines one-by-one into the Anaconda Prompt, pressing enter after each line.
-  * conda install sklearn
   * conda install theano
   * conda install keras
   * conda install tensorflow
   * conda install matplotlib
   * conda install pandas
   * conda install scipy
+
+### Acknowledgements
+A lot of the ideas for the material comes from the superb "Deep Learning in Python" course from Datacamp.  
+Other ideas have been inspired by the wonderful "Mastering Machine Learning" blog.
