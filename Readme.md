@@ -66,6 +66,7 @@ Please also note that the course structure has been gleaned from other superb on
   * conda install matplotlib
   * conda install pandas
   * conda install scipy
+  * conda install dask
 
 ### Acknowledgements
 A lot of the ideas for the material comes from the superb "Deep Learning in Python" course from Datacamp.  
