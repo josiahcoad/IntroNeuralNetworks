@@ -1,5 +1,5 @@
 # Learn Deep Learning from the Basics
-![Oxford Course Banner](https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/23550047_1857784714249682_818662786257132584_o.jpg?oh=58428ed99e30824d180088dc46de3615&oe=5AA37404 "Banner")
+---
 
 ### Course Objectives
 - Learn what deep learning is, and how it relates to simple statistical models.
@@ -29,7 +29,7 @@ Please also note that the course structure has been gleaned from other superb on
 ### Setup for Chapters 1-2
 
 * Download this git repository.   
-  * click the green button "Clone or Download" in top right hand corner of this page  ![Green Button Img](https://s31.postimg.org/r45t0i9a3/imageedit_9_4620369683.jpg)
+  * click the green button "Clone or Download" in top right hand corner of this page  ![Green Button Img](http://www.cs.williams.edu/~dbarowy/cs334s18/assets/tutorials/github/github-clone-button.png)
   * click "Download Zip"  
   * Open the file's location on your computer and unzip the folder
   * Move folder to a place where you can find it easily
