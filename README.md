@@ -62,8 +62,8 @@ Install a pip package in the current Jupyter kernel by putting the following lin
 import sys
 !{sys.executable} -m pip install numpy
 ```
-> And change out numpy with all the other packages
+> And replace numpy with all the other packages
 
 ### Acknowledgements
-Special thanks to [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) course from Datacamp.
+Special thanks to [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) course from Datacamp 
 and inspiration from the wonderful [Mastering Machine Learning](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) blog. I highly recomend these for continued learning.
