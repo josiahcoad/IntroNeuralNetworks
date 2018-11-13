@@ -65,5 +65,5 @@ import sys
 > And change out numpy with all the other packages
 
 ### Acknowledgements
-Special thanks to ![Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) course from Datacamp.
-and inspiration from the wonderful ![Mastering Machine Learning](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) blog. I highly recomend these for continued learning.
+Special thanks to [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) course from Datacamp.
+and inspiration from the wonderful [Mastering Machine Learning](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) blog. I highly recomend these for continued learning.
