@@ -1,8 +1,7 @@
 # Practical Neural Networks from the Basics
----
 
 ### Course Objectives
-- Learn what "machine learning" is, and how its used.
+- Learn what **machine learning**"** is, and how its used.
 - Become comfortable with many commonly heard **words** of machine learning at a high level (*more concept, less math*)
   - forward propogation
   - activation function
@@ -12,7 +11,7 @@
   - backwards propagation
   - batches
   - epochs
-- Start using some of the tools for Neural Network programming (sklearn, some helpful datascience packages: (numpy, pandas, seaborn))
+- Start using some of the tools for Neural Network programming (sklearn, some helpful datascience packages like numpy, pandas, seaborn)
 - Build a predictive (regression and classification) ML model using sklearn and interpret the output
 
 ### Setup for Chapters 1-2
