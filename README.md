@@ -54,6 +54,8 @@
   * conda install pandas
   * conda install scipy
   * conda install dask
+  * conda install seaborn
+  * conda install sklearn
 
 ##### Alternate route
 
