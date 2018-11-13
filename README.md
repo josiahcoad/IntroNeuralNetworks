@@ -56,7 +56,9 @@
   * conda install dask
 
 ##### Alternate route
-* If the previous is not working for you to install packages, try the following (very experimental)
+
+If the previous is not working for you to install packages, try the following (very experimental).
+
 Install a pip package in the current Jupyter kernel by putting the following lines in the first cell of your notebook:
 ```
 import sys

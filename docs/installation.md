@@ -1,5 +1,4 @@
 # Getting Started
----
 	
 You will learn how to:
 
