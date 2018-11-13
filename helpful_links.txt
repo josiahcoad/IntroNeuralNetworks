@@ -16,6 +16,3 @@ Further learning:
   https://github.com/stephencwelch/Neural-Networks-Demystified
   - Another free course for neural networks that seems good:
   http://www.fast.ai/
-
-Course Feedback:
-https://docs.google.com/forms/d/1Tf7LG0X0WDrKdBLW7wjw5izh3PY1dho713Gq6Z3eeMM/edit
