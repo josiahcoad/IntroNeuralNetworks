@@ -2,7 +2,7 @@
 ---
 
 ### Course Objectives
-- Learn what "deep learning" is, and how it relates to simple statistical models.
+- Learn what "machine learning" is, and how its used.
 - Become comfortable with many commonly heard **words** of machine learning at a high level (*more concept, less math*)
   - forward propogation
   - activation function
@@ -12,10 +12,8 @@
   - backwards propagation
   - batches
   - epochs
-- Start using some of the tools for Neural Network programming (keras, tensorflow, some helpful packages: (numpy, pandas))
-- Build a predictive (regression and classification) ML model using keras and interpret the output
-
-*Please note the programming instructions and slides for each lesson are explained in person and thus not fully documented online.*
+- Start using some of the tools for Neural Network programming (sklearn, some helpful datascience packages: (numpy, pandas, seaborn))
+- Build a predictive (regression and classification) ML model using sklearn and interpret the output
 
 ### Setup for Chapters 1-2
 * Download this git repository.   
@@ -34,10 +32,9 @@
 ##### Setting up Jupyter Notebook
 * Jupyter Notebook is an open-source web application that allows you to create and share documents that contain code, visualizations and explainatory text. It allows you to run code sequentially in small sections called cells so you can see what the code is doing.
 * Once in Anaconda, click the "Launch" button under Jupyter Notebook
-* It will open a file navigator in your browser ![file navigator img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.39.21%20PM.png?raw=true)
+* It will open a file navigator in your browser
 
 * Now navigate to where you put the IntroNeuralNetworks-master folder, (the unziped version of the file you downloaded)
-![Neural Networks folder img](https://github.com/josiahcoad/Intro-Neural-Networks/blob/master/TutorialPics/Screen%20Shot%202017-12-18%20at%2010.40.01%20PM.png?raw=true)
 
 ##### Using Jupyter Notebook
 * Open any file in Jupyter Notebook by clicking on the file in the Jupyter Notebook application
@@ -57,6 +54,15 @@
   * conda install pandas
   * conda install scipy
   * conda install dask
+
+##### Alternate route
+* If the previous is not working for you to install packages, try the following (very experimental)
+Install a pip package in the current Jupyter kernel by putting the following lines in the first cell of your notebook:
+```
+import sys
+!{sys.executable} -m pip install numpy
+```
+> And change out numpy with all the other packages
 
 ### Acknowledgements
 Special thanks to ![Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) course from Datacamp.
