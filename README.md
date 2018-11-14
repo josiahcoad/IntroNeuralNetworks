@@ -1,8 +1,8 @@
 # Practical Neural Networks from the Basics
 
 ### Course Objectives
-- Learn what **machine learning"** is, and how its used.
-- Become comfortable with many commonly heard **words** of machine learning at a high level (*more concept, less math*)
+- Learn what **machine learning** is, and how its used.
+- Become comfortable with many commonly heard **terms** of machine learning at a high level (*more concept, less math*)
   - forward propogation
   - activation function
   - loss function
