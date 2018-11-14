@@ -19,7 +19,7 @@ Thanks to our friends at **Jupyter Binder**, you can now run the code in an inte
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
 
-While this is convenient, there are a few limitations including slower computation speed. If you would like to run on your own machine, please continue with the following instructions. If you have done this thing again, you know what to do with the **requirements.txt** file. 😉
+While this is convenient, there are a few limitations including slower computation speed. If you would like to run on your own machine, please continue with the following instructions. If you have done this thing befor, you know what to do with the **requirements.txt** file. 😉
 
 ---
 
