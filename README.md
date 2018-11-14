@@ -58,7 +58,11 @@
 
 ##### Alternate route
 
-If the previous is not working for you to install packages, try the following (very experimental).
+If tensorflow install isn't working, try the following:
+
+```python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl```
+
+If conda install is not working for you to install packages, you can try the following.
 
 Install a pip package in the current Jupyter kernel by putting the following lines in the first cell of your notebook:
 ```
