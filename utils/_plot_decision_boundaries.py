@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
 from sklearn.neural_network import MLPClassifier
 
-def main():
+def plot_decision_boundaries():
     # Parameters
     n_classes = 3
     plot_colors = "ryb"
