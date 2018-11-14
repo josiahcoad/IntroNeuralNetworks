@@ -1,8 +1,8 @@
 # Practical Neural Networks from the Basics
 
 ### Course Objectives
-- Learn what **machine learning**"** is, and how its used.
-- Become comfortable with many commonly heard **words** of machine learning at a high level (*more concept, less math*)
+- Learn what **machine learning** is, and how its used.
+- Become comfortable with many commonly heard **terms** of machine learning at a high level (*more concept, less math*)
   - forward propogation
   - activation function
   - loss function
@@ -14,7 +14,16 @@
 - Start using some of the tools for Neural Network programming (sklearn, some helpful datascience packages like numpy, pandas, seaborn)
 - Build a predictive (regression and classification) ML model using sklearn and interpret the output
 
-### Setup for Chapters 1-2
+### Edit -- New (Non) Setup Instructions
+Thanks to our friends at **Jupyter Binder**, you can now run the code in an interactive enviroment without installing or downloading anything 🎉. Please click the following link to run in the browser.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
+
+While this is convenient, there are a few limitations including slower computation speed. If you would like to run on your own machine, please continue with the following instructions. If you have done this thing befor, you know what to do with the **requirements.txt** file. 😉
+
+---
+
+### Download the Git Repo
 * Download this git repository.   
   * click the green button "Clone or Download" in top right hand corner of this page  ![Green Button Img](http://www.cs.williams.edu/~dbarowy/cs334s18/assets/tutorials/github/github-clone-button.png)
   * click "Download Zip"
@@ -56,7 +65,7 @@
   * conda install seaborn
   * conda install sklearn
 
-##### Alternate route
+##### Alternate route for tensorflow installation
 
 If tensorflow install isn't working, try the following:
 
