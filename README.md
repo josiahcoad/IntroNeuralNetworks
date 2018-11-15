@@ -17,7 +17,7 @@
 
 ### Quickstart Instructions
 
-Thanks to our friends at **Jupyter Binder**, you can now run the code in an interactive enviroment without installing or downloading anything 🎉. Please click the following link to run in the browser.
+Thanks to our friends at **Jupyter Binder**, you can now run the code in an interactive enviroment without installing or downloading anything 🎉. Please click the following link to run in the browser. Give it a few minutes to boot up.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
 
