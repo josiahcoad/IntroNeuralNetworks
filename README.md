@@ -14,7 +14,7 @@
 - Start using some of the tools for Neural Network programming (sklearn, some helpful datascience packages like numpy, pandas, seaborn)
 - Build a predictive (regression and classification) ML model using sklearn and interpret the output
 
-### Edit -- New (Non) Setup Instructions
+### Quickstart Instructions
 Thanks to our friends at **Jupyter Binder**, you can now run the code in an interactive enviroment without installing or downloading anything 🎉. Please click the following link to run in the browser.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
