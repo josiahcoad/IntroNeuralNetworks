@@ -1,8 +1,8 @@
 # Practical Neural Networks from the Basics
 
-### Click Here for Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
+### Click for Demo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josiahcoad/IntroNeuralNetworks/master)
 
-You can even run the demo *on your phone*! 📱 licking the link opens a **Jupyter Binder** in your browser where you can run the code in an interactive enviroment *without installing or downloading anything* 🎉. Please give it a few minutes to boot up.⏱️
+You can even run the demo *on your phone*! 📱 Clicking the link opens a **Jupyter Binder** in your browser where you can run the code in an interactive enviroment *without installing or downloading anything* 🎉. Please give it a few minutes to boot up.⏱️
 
 
 ### Course Objectives
