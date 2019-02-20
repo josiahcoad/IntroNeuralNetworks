@@ -2,6 +2,10 @@
 
 - [Survey](https://goo.gl/forms/GwW6zt1TakWEa0Tm1)
 
+- [Class 2 Quiz](https://goo.gl/forms/z3v6XNWO3qPGhnoW2)
+
+## Further Learning
+
 - 4 levels of Neural Network Implimentation
   - Intro: This tutorial
   - Intermediate: [Keras](https://insights.untapt.com/deep-learning-with-tensorflow-introductory-tutorials-with-jupyter-notebooks-23970fee6b06)
