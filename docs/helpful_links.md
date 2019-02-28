@@ -10,7 +10,7 @@
   - Intro: This tutorial
   - Intermediate: [Keras](https://insights.untapt.com/deep-learning-with-tensorflow-introductory-tutorials-with-jupyter-notebooks-23970fee6b06)
   - Advanced: [Tensorflow](https://insights.untapt.com/deep-learning-with-tensorflow-introductory-tutorials-with-jupyter-notebooks-23970fee6b06)
-  - Master: [From Scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+  - Master: [From Scratch](https://towardsdatascience.com/neural-networks-from-scratch-easy-vs-hard-b26ddc2e89c7)
 
 - [Google Neural Network Visualization](http://playground.tensorflow.org/)
 
